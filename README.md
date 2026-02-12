@@ -20,20 +20,20 @@
 
 | 文件 | 功能 | 适用场景 |
 |------|------|----------|
-| [prompts/zh2en-semiconductor.md](prompts/zh2en-semiconductor.md) | 中转英 | 中文草稿 → 英文论文 |
-| [prompts/en2zh-semiconductor.md](prompts/en2zh-semiconductor.md) | 英转中 | 英文论文 → 中文理解 |
-| [prompts/zh2zh-semiconductor.md](prompts/zh2zh-semiconductor.md) | 中转中 | 中文口语 → 学术规范 |
-| [prompts/abbreviation-semiconductor.md](prompts/abbreviation-semiconductor.md) | 缩写 | 精简字数 |
-| [prompts/expansion-semiconductor.md](prompts/expansion-semiconductor.md) | 扩写 | 补充细节 |
-| [prompts/polish-en-semiconductor.md](prompts/polish-en-semiconductor.md) | 英文润色 | 提升英文质量 |
-| [prompts/polish-zh-semiconductor.md](prompts/polish-zh-semiconductor.md) | 中文润色 | 提升中文质量 |
-| [prompts/logic-check-semiconductor.md](prompts/logic-check-semiconductor.md) | 逻辑检查 | 最终校对 |
-| [prompts/de-ai-semiconductor.md](prompts/de-ai-semiconductor.md) | 去 AI 味 | 去除机械感 |
-| [prompts/architecture-diagram-semiconductor.md](prompts/architecture-diagram-semiconductor.md) | 架构图 | 器件结构可视化 |
-| [prompts/figure-caption-semiconductor.md](prompts/figure-caption-semiconductor.md) | 图标题 | 生成英文图注 |
-| [prompts/table-caption-semiconductor.md](prompts/table-caption-semiconductor.md) | 表标题 | 生成英文表注 |
-| [prompts/experiment-analysis-semiconductor.md](prompts/experiment-analysis-semiconductor.md) | 实验分析 | 数据解读 |
-| [prompts/reviewer-perspective-semiconductor.md](prompts/reviewer-perspective-semiconductor.md) | Reviewer 视角 | 稿件自审 |
+| [zh2en-semiconductor.md](prompts/zh2en-semiconductor.md) | 中转英 | 中文草稿 → 英文论文 |
+| [en2zh-semiconductor.md](prompts/en2zh-semiconductor.md) | 英转中 | 英文论文 → 中文理解 |
+| [zh2zh-semiconductor.md](prompts/zh2zh-semiconductor.md) | 中转中 | 中文口语 → 学术规范 |
+| [abbreviation-semiconductor.md](prompts/abbreviation-semiconductor.md) | 缩写 | 精简字数 |
+| [expansion-semiconductor.md](prompts/expansion-semiconductor.md) | 扩写 | 补充细节 |
+| [polish-en-semiconductor.md](prompts/polish-en-semiconductor.md) | 英文润色 | 提升英文质量 |
+| [polish-zh-semiconductor.md](prompts/polish-zh-semiconductor.md) | 中文润色 | 提升中文质量 |
+| [logic-check-semiconductor.md](prompts/logic-check-semiconductor.md) | 逻辑检查 | 最终校对 |
+| [de-ai-semiconductor.md](prompts/de-ai-semiconductor.md) | 去 AI 味 | 去除机械感 |
+| [architecture-diagram-semiconductor.md](prompts/architecture-diagram-semiconductor.md) | 架构图 | 器件结构可视化 |
+| [figure-caption-semiconductor.md](prompts/figure-caption-semiconductor.md) | 图标题 | 生成英文图注 |
+| [table-caption-semiconductor.md](prompts/table-caption-semiconductor.md) | 表标题 | 生成英文表注 |
+| [experiment-analysis-semiconductor.md](prompts/experiment-analysis-semiconductor.md) | 实验分析 | 数据解读 |
+| [reviewer-perspective-semiconductor.md](prompts/reviewer-perspective-semiconductor.md) | Reviewer 视角 | 稿件自审 |
 
 ## 使用方法
 
