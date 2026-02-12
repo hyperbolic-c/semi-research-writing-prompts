@@ -1,6 +1,6 @@
-# 半导体材料与器件 - Prompt 索引
+# semi-research-writing-prompts
 
-> 本项目基于 [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) 重构，针对**半导体材料与器件**领域进行了领域适配和格式优化。
+> 本项目基于 [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) 重构，针对**半导体材料与器件**领域进行了领域适配和格式优化，用于该领域的AI写作。
 
 ## 项目背景
 
@@ -15,7 +15,6 @@
 - 🔬 **领域定制**：专为半导体材料与器件设计（光电探测器、LED、HEMT、MOSFET、二维材料等）
 - 📝 **Word 友好**：输出纯文本格式，可直接复制到 Word 使用
 - 🚀 **开箱即用**：每个场景对应独立文件，复制即用
-- 🤖 **AI 辅助**：专为 Claude、Cursor 等 AI 工具优化
 
 ## 文件列表
 
@@ -42,4 +41,4 @@
 
 ## 致谢
 
-感谢 [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) 项目提供的基础框架和灵感。
+感谢 [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) 项目提供的基础框架和内容。
